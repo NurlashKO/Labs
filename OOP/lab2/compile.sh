@@ -1,0 +1,2 @@
+javac ShoppingCartApplication.java
+java ShoppingCartApplication

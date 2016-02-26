@@ -1,0 +1,111 @@
+body
+{
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+	background-color: #bdc3c7;
+}
+nav {
+	display: inline-block;
+	float: right;
+	background-color: #34495e;
+	height : 1170px;
+	width: 300px;
+	text-align: center;
+}
+
+.category
+{
+	font-size: 40;
+	color: #2ecc71;
+	text-decoration: none;
+	display: block;
+	padding-top: 30px;
+}
+
+.card
+{
+	margin-left: 70px;
+	margin-bottom: 60px;
+	margin-top: 30px;
+	width : 300px;
+	display: inline-block;
+	padding: 10px 10px 10px 10px;
+	background-color: #2980b9;
+	border-radius: 10px;
+}
+
+.card img
+{
+	width : 270px;
+	height : 150px;
+}
+
+.main
+{
+	width : 70%;
+}
+
+.like
+{
+	background-image:url(../lab1/pic/like-512.png);
+	width: 20px !important;
+	height: 20px !important;
+	background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center; 
+
+	padding-right: 10px;
+	padding-bottom: 5px;
+	float: right;
+	transition : all ease 0.2s;
+}
+
+.like:hover
+{
+	background-image:url(../lab1/pic/heart-512.png);
+	cursor: crosshair;
+}
+
+.left
+{
+	float: left;
+}
+.right
+{
+	float: right;
+}
+
+.footer-img
+{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+
+.footer
+{
+	padding : 10px 10px 10px 10px;
+	width: 100% - 100px;
+	padding-right: 0;
+	background-color: #f1c40f;
+}
+
+.final
+{
+	background-color: #9b59b6;
+	width: 100% - 100px;
+	height: 300px;
+	display: inline-block;
+	padding-right: 100px;
+
+}
+
+.final-image
+{
+	width:200px;
+	height: 200px;
+}
+
+
+

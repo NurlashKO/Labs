@@ -1,0 +1,4 @@
+ls
+cat a.c
+cat ../a.c
+exit

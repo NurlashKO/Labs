@@ -1,0 +1,2 @@
+javac TestStudentArrayList.java
+java TestStudentArrayList

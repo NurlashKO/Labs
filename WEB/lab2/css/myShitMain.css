@@ -1,0 +1,65 @@
+.my-logo{
+
+  position: fixed;
+  top: 5%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -5%);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40;
+  color: white;
+
+
+}
+
+.my-quote{
+	
+  position: fixed;
+  top: 15%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -15%);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40;
+  color: white;
+}
+
+body {
+	background: #39424e;
+
+}
+
+.navbar.navbar-default {
+  margin-top: 5px;
+  margin-left: 1%;
+  margin-right: 1%;
+
+}
+
+.list-group.main {
+    overflow: hidden;
+    float: right;
+    width : 85%;
+    margin-right: 1%;
+}
+.list-group.left-bar{
+  margin-left: 1%;
+  font-family: 'Open Sans', sans-serif;
+  .border-radius( 5px );
+  width : 12%;
+  background: #e7e7e7;
+}
+
+.pagination {
+  overflow: hidden;
+  float :right;
+  margin-top :5px;
+}
+
+.panel.panel-primary {
+
+    overflow: hidden;
+    float: right;
+    width : 85%;
+    margin-right: 1%;
+}
