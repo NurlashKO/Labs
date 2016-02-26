@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.help,org.eclipse.emf.common.ui,org.eclipse
+ .ui.cheatsheets
+Bundle-Vendor: Obeo Network
+Bundle-Version: 5.0.0.201505291234
+Built-By: integration
+Build-Jdk: 1.6.0_26
+Bundle-Localization: plugin
+Bundle-Name: UML Designer Documentation
+Bundle-ManifestVersion: 2
+Created-By: Apache Maven
+Bundle-SymbolicName: org.obeonetwork.dsl.uml2.design.doc;singleton:=tr
+ ue
+Archiver-Version: Plexus Archiver
+
