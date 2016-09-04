@@ -114,3 +114,7 @@ max_cov_pair
 max_cov
 min_cov_pair
 min_cov
+
+
+#My plot functions doesn't work in Mac Terminal for unknown reasons.
+#I will try to fix this until next assignment
