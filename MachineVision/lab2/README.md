@@ -1,5 +1,5 @@
 Machine Vision
-Lab1
+Lab2
 
 Compile and execute using run.sh
 
