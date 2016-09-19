@@ -1,4 +1,4 @@
-Execute programs:
-'''
+Execute program:
+```
 $ sh run.sh fileName
-'''
+```
