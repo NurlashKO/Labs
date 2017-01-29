@@ -1,0 +1,8 @@
+\\psf\home\documents\visual studio 2010\Projects\SpellCorrector\SpellCorrector\bin\Debug\SpellCorrector.exe
+\\psf\home\documents\visual studio 2010\Projects\SpellCorrector\SpellCorrector\bin\Debug\SpellCorrector.pdb
+\\psf\home\documents\visual studio 2010\Projects\SpellCorrector\SpellCorrector\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\psf\home\documents\visual studio 2010\Projects\SpellCorrector\SpellCorrector\obj\x86\Debug\SpellCorrector.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2010\Projects\SpellCorrector\SpellCorrector\obj\x86\Debug\SpellCorrector.exe
+\\psf\home\documents\visual studio 2010\Projects\SpellCorrector\SpellCorrector\obj\x86\Debug\SpellCorrector.pdb
+\\psf\home\documents\visual studio 2010\Projects\SpellCorrector\SpellCorrector\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+\\psf\home\documents\visual studio 2010\Projects\SpellCorrector\SpellCorrector\obj\x86\Debug\SpellCorrector.csprojResolveAssemblyReference.cache
