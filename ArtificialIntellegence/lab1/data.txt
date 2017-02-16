@@ -1,0 +1,8 @@
+4 3
+Strasbourg 5 5
+Lindau 0 0
+Bonn 10 10
+Munchen 2 2
+Lindau Bonn 60
+Bonn Strasbourg 20
+Bonn Munchen 55
