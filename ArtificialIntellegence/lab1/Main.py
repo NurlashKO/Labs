@@ -36,6 +36,8 @@ def astar(cities, g, S, F):
 
     while not frontier.empty():
         current = frontier.get()
+        if currnet == F:
+            break
         for next in g[current]:
             to, cost = next
             new_cost = cost_so_far[current] + cost
