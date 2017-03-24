@@ -1,0 +1,8 @@
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Threads/bin/Debug/netcoreapp1.1/Threads.deps.json
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Threads/bin/Debug/netcoreapp1.1/Threads.runtimeconfig.json
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Threads/bin/Debug/netcoreapp1.1/Threads.runtimeconfig.dev.json
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Threads/obj/Debug/netcoreapp1.1/Threads.AssemblyInfo.cs
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Threads/bin/Debug/netcoreapp1.1/Threads.dll
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Threads/bin/Debug/netcoreapp1.1/Threads.pdb
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Threads/obj/Debug/netcoreapp1.1/Threads.dll
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Threads/obj/Debug/netcoreapp1.1/Threads.pdb
