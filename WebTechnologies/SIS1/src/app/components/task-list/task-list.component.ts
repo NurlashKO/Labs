@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Task } from './../../models/task';
+import { Project } from './../../models/project';
 import { ProjectService } from '../../services/project.service';
 
 @Component({
@@ -10,22 +11,28 @@ import { ProjectService } from '../../services/project.service';
 })
 export class TaskListComponent implements OnInit {
 
-  public tasks: Task[];
+  public projects: Project[];
   
   constructor(private projectService: ProjectService) {
 
     projectService.getProjects().subscribe( 
-      (tasks) => {
-        this.tasks = tasks['value'] as Task[];
-        console.log(tasks['value']);
+      (projects) => {
+        this.projects = projects['value'] as Project[];
+        this.loadTasks();
     }, (err) => {
         console.log(err);
       }
     );
-    this.tasks = [
-     {title: "ez task", description: "Super ez task for me", isDone: true},
-      {title: "hard task", description: "Super hard task for me", isDone: false}
-    ];
+  }
+
+  public loadTasks() {
+        for (let i in this.projects) {
+          this.projectService.getTasks(this.projects[i]).subscribe(
+            (tasks) => {
+              this.projects[i].tasks = tasks['value'];
+            }
+          )
+        }
   }
 
   ngOnInit() {

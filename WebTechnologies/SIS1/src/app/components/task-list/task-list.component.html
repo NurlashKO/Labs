@@ -1,11 +1,15 @@
 
-  <div *ngFor="let task of tasks">
+  <div *ngFor="let project of projects">
     <md-card>
     <md-card-title>
-      {{ task.Title }}
+      {{ project.Title }}
     </md-card-title>
     <md-card-content>
-    {{ task.Description }}
+    {{ project.Description }}
+    <h2>Tasks : </h2>
+    <div *ngFor="let task of project.tasks"> 
+          <h3 > {{ task.Title }} </h3>
+    </div>
     </md-card-content>
     </md-card>
   </div>
