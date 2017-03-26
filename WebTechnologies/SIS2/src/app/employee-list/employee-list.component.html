@@ -1,0 +1,7 @@
+<div *ngFor="let employee of employees">
+  <input type="radio" name="employee-list" (change)="changeDesc(employee)"> {{ employee.name }}
+</div>
+
+<div>
+  {{ description }}
+</div>
