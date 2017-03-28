@@ -1,0 +1,18 @@
+<md-toolbar color="primary">
+
+  <button md-icon-button class="menu-button-margin" (click)="toggleMenu()">
+    <md-icon>menu</md-icon>
+  </button>
+  <button md-button style="font-size: 18px;">FIT Portal </button>
+  <!--
+  <ng-container *ngFor="let navUrl of navigationPathDisplayString; let i = index">
+    <md-icon>navigate_next</md-icon> 
+    <button md-button routerLink="{{ navigationPath[i] }}">  {{ navUrl }}</button>
+  </ng-container>
+  -->
+  <span class="toolbar-spacer"></span>
+  <div class="button-row">
+    <button md-button (click)="openSignupDialog()"> SIGN UP </button>
+    <button md-button (click)="openLoginDialog()"> LOG IN </button>
+  </div>
+</md-toolbar>
