@@ -1,0 +1,4 @@
+  #!/bin/bash
+  g++ game.cpp -o game.out -std=c++11
+  g++ player.cpp -o player.out -std=c++11
+  ./game.out

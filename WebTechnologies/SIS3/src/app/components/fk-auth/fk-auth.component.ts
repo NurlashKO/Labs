@@ -27,6 +27,7 @@ export class FkLoginComponent implements OnInit {
   }
   
   login() {
+      console.log("OMMG??")
         this.loading = true;
         this.authenticationService.login(this.model.username, this.model.password)
             .subscribe(
