@@ -1,0 +1,8 @@
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Insta/bin/Debug/netcoreapp1.1/Insta.deps.json
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Insta/bin/Debug/netcoreapp1.1/Insta.runtimeconfig.json
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Insta/bin/Debug/netcoreapp1.1/Insta.runtimeconfig.dev.json
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Insta/bin/Debug/netcoreapp1.1/Insta.dll
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Insta/bin/Debug/netcoreapp1.1/Insta.pdb
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Insta/obj/Debug/netcoreapp1.1/Insta.AssemblyInfo.cs
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Insta/obj/Debug/netcoreapp1.1/Insta.dll
+/Users/nurlan/work/Labs/WindowsFormsCSharp/Insta/obj/Debug/netcoreapp1.1/Insta.pdb
